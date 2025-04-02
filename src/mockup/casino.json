@@ -1,0 +1,138 @@
+{
+    "items": [
+        {
+            "id": "blackjack",
+            "name": "Blackjack Lobby",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/casino-hub-files/6b71ccfb-0a4a-4153-a98e-40db5ebd560e.jpg",
+            "logo2": "https://bshots.egcvi.com/thumbnail/mdc2_mw_en_med_L.jpg?t=1737596779204",
+            "studio": "Pragmatic Play",
+            "attributes": [],
+            "theme": "Egyptian",
+            "usingRate": 230.0
+        },
+        {
+            "id": "aviator",
+            "name": "Aviator",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/betengine/casino/images/spribe/aviator/706c9ed6-6d3d-4393-abe8-828f715fb45f.jpg",
+            "studio": "Spribe",
+            "attributes": [],
+            "theme": "Egyptian",
+            "maxBet": "$10K",
+            "usingRate": 158.5
+        },
+        {
+            "id": "fruit",
+            "name": "Fruit Party",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/casino-hub-files/dff8ed3a-dfeb-4998-83f1-99c360807a29.jpg",
+            "studio": "Pragmatic Play",
+            "attributes": ["Feature Buy"],
+            "theme": "Gold",
+            "usingRate": 99.0
+        },
+        {
+            "id": "monopoly",
+            "name": "Monopoly Live",
+            "logo": "https://bshots.egcvi.com/thumbnail/mdc2_mw_en_med_L.jpg?t=1737596779204",
+            "logo2": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/casino-hub-files/6b71ccfb-0a4a-4153-a98e-40db5ebd560e.jpg",
+            "studio": "Evolution",
+            "attributes": [],
+            "theme": "Gold",
+            "maxBet": "$5K",
+            "usingRate": 98.0
+        },
+        {
+            "id": "mines",
+            "name": "Mines",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/betengine/casino/images/spribe/mines/d9a300e5-7322-4575-96ab-6ca82a5e8b86.png",
+            "studio": "Spribe",
+            "attributes": [],
+            "theme": "Gold",
+            "maxBet": "$10K",
+            "usingRate": 28.0
+        },
+        {
+            "id": "speed-crash",
+            "name": "Speed Crash",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/casino-hub-files/af9f0059-5d13-4dee-bb94-fde16a5648ac.jpg",
+            "studio": "Hacksaw Gaming",
+            "attributes": [],
+            "theme": "",
+            "isLive": true,
+            "usingRate": 99.8
+        },
+        {
+            "id": "crazy-time",
+            "name": "Crazy Time",
+            "logo": "https://bshots.egcvi.com/thumbnail/dc3_ct_med_L.jpg?t=1737596870661",
+            "studio": "Evolution",
+            "attributes": [],
+            "theme": "Gold",
+            "usingRate": 102.2
+        },
+        {
+            "id": "perfect-gemes",
+            "name": "Perfect Gemes",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/betengine/casino/images/png/perfect-gems/7aaff7fb-79e0-4e6e-93f7-5c0071b33786.jpg",
+            "studio": "Play'n GO",
+            "attributes": ["Bonus Rounds"],
+            "theme": "",
+            "usingRate": 163.6
+        },
+        {
+            "id": "blackjack",
+            "name": "Crash X Football Edition",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/casino-hub-files/6ab0b67f-627c-42c4-8593-ac86ca1d0d31.jpg",
+            "studio": "Turbo Games",
+            "attributes": ["New"],
+            "theme": "Gold",
+            "usingRate": 123.2
+        },
+        {
+            "id": "blackjack",
+            "name": "Royal Rich Roulette",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/casino-hub-files/2d7dfed0-5e8f-4c40-b0fe-baf10705efca.jpg",
+            "studio": "Live88",
+            "attributes": [],
+            "theme": "Vegas",
+            "isLive": true,
+            "usingRate": 221.5
+        },
+        {
+            "id": "blackjack",
+            "name": "Sticky Bandits Roulette",
+            "logo": "https://cdn-lobby-img.live-hub.net/lobbyImage_111474.jpg?t=1737597115066",
+            "studio": "Playtech",
+            "attributes": [],
+            "theme": "Vegas",
+            "isLive": true,
+            "usingRate": 210.2
+        },
+        {
+            "id": "blackjack",
+            "name": "Dragon Tiger 1",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/casino-hub-files/4935a641-4d3e-457d-a9c7-e1ee057f4b54.jpg",
+            "studio": "Live888",
+            "attributes": [],
+            "theme": "Vegas",
+            "usingRate": 23.2
+        },
+        {
+            "id": "blackjack",
+            "name": "Bacaarat Lobby",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto,w_250/casino-hub-files/c5454aec-6d0d-4d4b-86ec-8e6acda4d0d7.jpg",
+            "studio": "Vivo",
+            "attributes": [],
+            "theme": "Vegas",
+            "usingRate": 130.5
+        },
+        {
+            "id": "blackjack",
+            "name": "Quantum Roulette",
+            "logo": "https://cdn-lobby-img.live-hub.net/lobbyImage_101946.jpg?t=1737598501233",
+            "studio": "Playtech",
+            "attributes": [],
+            "theme": "Vegas",
+            "usingRate": 30.1
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "categories": [
+        "Jump Back In",
+        "Trending",
+        "Best live dealer games",
+        "Highest rakeback earnings",
+        "_live_bettings",
+        "Blackjack",
+        "_all_studios",
+        "Baccarat",
+        "Roulette",
+        "Cloudbet Picks",
+        "Highest RTP",
+        "Drops & Wins - Featured Games",
+        "Popular games for you",
+        "_rankings",
+        "Because you played Crash X Football Edition",
+        "_themes",
+        "Featured",
+        "_groups"
+    ],
+    "studios": [
+        { "name": "Relax Gaming", "href": "/relaxgaming", "logo": "/imgs/studio/relaxgaming-white.webp" },
+        { "name": "Quickspin", "href": "/quickspin", "logo": "/imgs/studio/quickspin-white.webp" },
+        { "name": "Swintt", "href": "/swintt", "logo": "/imgs/studio/swintt-white.webp" },
+        { "name": "Playtech", "href": "/playtech", "logo": "/imgs/studio/playtech-white.webp" },
+        { "name": "Nolimit City", "href": "/nolimit", "logo": "/imgs/studio/nolimit-white.webp" },
+        { "name": "AvatarUX Studios", "href": "/avataruxstudios", "logo": "/imgs/studio/avataruxstudios-white.webp" },
+        { "name": "Gamomat", "href": "/gamomat", "logo": "/imgs/studio/gamomat-white.webp" },
+        { "name": "NetGaming", "href": "/netgaming", "logo": "/imgs/studio/netgaming-white.webp" },
+        { "name": "AvatarUX Studios", "href": "/avataruxstudios", "logo": "/imgs/studio/avataruxstudios-white.webp" },
+        { "name": "Gamomat", "href": "/gamomat", "logo": "/imgs/studio/gamomat-white.webp" },
+        { "name": "NetGaming", "href": "/netgaming", "logo": "/imgs/studio/netgaming-white.webp" },
+        { "name": "Playtech", "href": "/playtech", "logo": "/imgs/studio/playtech-white.webp" },
+        { "name": "Nolimit City", "href": "/nolimit", "logo": "/imgs/studio/nolimit-white.webp" }
+    ],
+    "themes": [ 
+        "Egyptian",
+        "Vegas",
+        "Gold"
+    ],
+    "groups": [ 
+        "Evolution",
+        "Provably Fair"
+    ],
+    "rankings": {
+        "hots": [],
+        "colds": []
+    }
+}

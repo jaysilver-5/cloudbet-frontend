@@ -1,0 +1,1327 @@
+[
+    {
+        "name": "Dota 2",
+        "type": "dota2",
+        "competitions": [
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/basketball-usa-nba/dark/logo?_a=DATAdtAAZAA0",
+                "name": "NBA",
+                "type": "basketball",
+                "id": "nba",
+                "betItems": [
+                    "Spread",
+                    "Total",
+                    "Money Line"
+                ],
+                "matches": [
+                    {
+                        "id": "123456",
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "id": "123457",
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    }
+                ]
+            },
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/tennis-wta-australian-open-women-singles/dark/logo?_a=DATAdtAAZAA0",
+                "name": "Australia Open, Women Singles",
+                "type": "soccer",
+                "id": "australia-open-women-singles",
+                "betItems": [
+                    "1",
+                    "2"
+                ],
+                "matches": [
+                    {
+                        "id": "123457",
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    }
+                ]
+            },
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/soccer-international-clubs-uefa-champions-league/dark/logo?_a=DATAdtAAZAA0",
+                "name": "UEFA Champions League",
+                "type": "soccer",
+                "id": "uefa-champions-league",
+                "betItems": [
+                    "1",
+                    "2"
+                ],
+                "matches": [
+                    {
+                        "id": "123457",
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    }
+                ]
+            },
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/basketball-usa-nba/dark/logo?_a=DATAdtAAZAA0",
+                "name": "NBA",
+                "type": "basketball",
+                "id": "nba",
+                "betItems": [
+                    "Spread",
+                    "Total",
+                    "Money Line"
+                ],
+                "matches": [
+                    {
+                        "id": "123457",
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    }
+                ]
+            },
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/tennis-wta-australian-open-women-singles/dark/logo?_a=DATAdtAAZAA0",
+                "name": "Australia Open, Women Singles",
+                "type": "baseball",
+                "id": "uefa-champions-league",
+                "betItems": [
+                    "1",
+                    "2"
+                ],
+                "matches": [
+                    {
+                        "id": "123457",
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    }
+                ]
+            },
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/soccer-international-clubs-uefa-champions-league/dark/logo?_a=DATAdtAAZAA0",
+                "name": "Brazil Cup",
+                "type": "soccer",
+                "id": "brazil-cup",
+                "betItems": [
+                    "1",
+                    "2"
+                ],
+                "matches": [
+                    {
+                        "id": "123457",
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    }
+                ]
+            },
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/basketball-usa-nba/dark/logo?_a=DATAdtAAZAA0",
+                "name": "VHL",
+                "type": "cricket",
+                "id": "vhl",
+                "betItems": [
+                    "Spread",
+                    "Total",
+                    "Money Line"
+                ],
+                "matches": [
+                    {
+                        "id": "123457",
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    }
+                ]
+            },
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/tennis-wta-australian-open-women-singles/dark/logo?_a=DATAdtAAZAA0",
+                "name": "MHL",
+                "type": "icehockey",
+                "id": "mhl",
+                "betItems": [
+                    "1",
+                    "2"
+                ],
+                "matches": [
+                    {
+                        "id": "123457",
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    }
+                ]
+            },
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/soccer-international-clubs-uefa-champions-league/dark/logo?_a=DATAdtAAZAA0",
+                "name": "Premier League",
+                "type": "tennis",
+                "id": "premier-league",
+                "betItems": [
+                    "1",
+                    "2"
+                ],
+                "matches": [
+                    {
+                        "id": "123457",
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    }
+                ]
+            },
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/soccer-international-clubs-uefa-champions-league/dark/logo?_a=DATAdtAAZAA0",
+                "name": "UEFA Europe League",
+                "type": "golf",
+                "id": "uefa-champions-league",
+                "betItems": [
+                    "1",
+                    "2"
+                ],
+                "matches": [
+                    {
+                        "id": "123457",
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/13272/logo/2021-01-21-06-19-19",
+                            "name": "AS Monaco"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/11986/logo/2020-11-05-13-14-37",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "FIFA",
+        "type": "fifa",
+        "competitions": [
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/basketball-usa-nba/dark/logo?_a=DATAdtAAZAA0",
+                "name": "NBA",
+                "type": "basketball",
+                "id": "nba",
+                "betItems": [
+                    "Spread",
+                    "Total",
+                    "Money Line"
+                ],
+                "matches": [
+                    {
+                        "id": "123456",
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "id": "123457",
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    },
+                    {
+                        "date": 1737608023,
+                        "team1": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35,
+                            3.5
+                        ]
+                    }
+                ]
+            },
+            {
+                "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/tennis-wta-australian-open-women-singles/dark/logo?_a=DATAdtAAZAA0",
+                "name": "Australia Open, Women Singles",
+                "type": "soccer",
+                "id": "australia-open-women-singles",
+                "betItems": [
+                    "1",
+                    "2"
+                ],
+                "matches": [
+                    {
+                        "id": "123457",
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    },
+                    {
+                        "date": 1737521623,
+                        "team1": {
+                            "name": "BKN Nets"
+                        },
+                        "team2": {
+                            "name": "NY Knicks"
+                        },
+                        "bets": [
+                            1.02,
+                            2.35
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Counter Strike",
+        "type": "cs"
+    },
+    {
+        "name": "Call Of Duty",
+        "type": "cod"
+    },
+    {
+        "name": "Valorant",
+        "type": "valorant"
+    },
+    {
+        "name": "Starcraft",
+        "type": "starcraft"
+    }
+]

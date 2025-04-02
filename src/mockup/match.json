@@ -1,0 +1,79 @@
+{
+    "competition": {
+        "name": "Australian Open, Women Singles",
+        "logo": "https://res.cloudinary.com/betengine/image/upload/f_webp/q_auto/v2/media-cloudbet/sports/competition-logos/basketball-usa-nba/dark/logo?_a=DATAdtAAZAA0"
+    },
+    "match": {
+        "name": "MFk Vyskov v MFK Skalica",
+        "date": 1737608023,
+        "isLive": true,
+        "currentTime": "35 '",
+        "currentStatus": "Halftime",
+        "team1": {
+            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1364/logo/2023-05-01-02-18-01",
+            "name": "BKN Nets",
+            "win": 1
+        },
+        "team2": {
+            "logo": "https://www.cloudbet.com/sports-data/entity-media/competitor/1667/logo/2023-05-01-02-16-23",
+            "name": "NY Knicks",
+            "win": 2
+        }
+    },
+    "types": [
+        "Main", "Asian Lines", "Goals", "Specials", "More"
+    ],
+    "bets": [
+        {
+            "type": "Main",
+            "name": "Asian Handicap",
+            "desc": "description",
+            "cashout": true,
+            "isFavorite": true,
+            "betItems": ["MFK", "X", "SKA"],
+            "items": [
+                [1.5, 2, 2.5],
+                [3.5, 4, 2.5]
+            ]
+        },
+        {
+            "type": "Main",
+            "name": "Correct Score",
+            "cashout": false,
+            "isFavorite": false,
+            "betItems": ["MFK", "SKA"],
+            "items": [
+                [
+                    { "point": 1.5, "desc": "1-2" },
+                    { "point": 2.5, "desc": "1-2" }
+                ],
+                [
+                    { "point": 1.5, "desc": "2-3" },
+                    { "point": 2.5, "desc": "2-3" }
+                ]
+            ]
+        },
+        {
+            "type": "Asian Lines",
+            "name": "Correct Score",
+            "desc": "description",
+            "cashout": false,
+            "isFavorite": false,
+            "items": [
+                [ { "point": 1.5, "desc": "1-2" } ],
+                [ { "point": 2.5, "desc": "3-4" } ],
+                [ { "point": 1.5, "desc": "4-6" } ],
+                [ { "point": 1.5, "desc": "4-6", "locked": true } ]
+            ]
+        },
+        {
+            "type": "Asian Lines",
+            "name": "Correct Score",
+            "cashout": false,
+            "isFavorite": true,
+            "items": [
+                [ 1.5, { "point": 1.5, "disabled": true }, 2.5 ]
+            ]
+        }
+    ]
+}

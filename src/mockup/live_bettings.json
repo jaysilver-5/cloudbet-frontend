@@ -1,0 +1,82 @@
+[
+    {
+        "id": "99d16e84-f253-415c-9474-410246763a26",
+        "amount": 200,
+        "multiplier": 1.5,
+        "payout": 300,
+        "date": 1737520575,
+        "game": {
+            "type": "slots",
+            "name": "Ultimate Golden Dragon Inferno",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto/w_250/casino-hub-files/d20f4601-d7db-4567-b6a9-7c5c4135df89.jpg"
+        },
+        "user": {
+            "avatar": "https://res.cloudinary.com/betengine/image/upload/f_webp/dpr_2.0/q_auto/v1/media-cloudbet/loyalty/tier/silver/5",
+            "name": "ahdwoersdlcs"
+        }
+    },
+    {
+        "id": "99d16e84-f253-415c-9474-410246763a26",
+        "amount": 100,
+        "multiplier": 2.5,
+        "payout": 400,
+        "date": 1737520575,
+        "game": {
+            "type": "blackjack",
+            "name": "Roulette",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto/w_250/casino-hub-files/d20f4601-d7db-4567-b6a9-7c5c4135df89.jpg"
+        },
+        "user": {
+            "avatar": "https://res.cloudinary.com/betengine/image/upload/f_webp/dpr_2.0/q_auto/v1/media-cloudbet/loyalty/tier/silver/5",
+            "name": "oersdlcs"
+        }
+    },
+    {
+        "id": "99d16e84-f253-415c-9474-410246763a26",
+        "amount": 22,
+        "multiplier": 0.9,
+        "payout": 50,
+        "date": 1737520575,
+        "game": {
+            "type": "roulette",
+            "name": "Aviator",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto/w_250/casino-hub-files/d20f4601-d7db-4567-b6a9-7c5c4135df89.jpg"
+        },
+        "user": {
+            "avatar": "https://res.cloudinary.com/betengine/image/upload/f_webp/dpr_2.0/q_auto/v1/media-cloudbet/loyalty/tier/silver/5",
+            "name": "ahdw"
+        }
+    },
+    {
+        "id": "99d16e84-f253-415c-9474-410246763a26",
+        "amount": 1,
+        "multiplier": 1.5,
+        "payout": 1.5,
+        "date": 1737520575,
+        "game": {
+            "type": "crash",
+            "name": "Fruit Party",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto/w_250/casino-hub-files/d20f4601-d7db-4567-b6a9-7c5c4135df89.jpg"
+        },
+        "user": {
+            "avatar": "https://res.cloudinary.com/betengine/image/upload/f_webp/dpr_2.0/q_auto/v1/media-cloudbet/loyalty/tier/silver/5",
+            "name": "rt5dfdlcs"
+        }
+    },
+    {
+        "id": "99d16e84-f253-415c-9474-410246763a26",
+        "amount": 5,
+        "multiplier": 0.8,
+        "payout": 7,
+        "date": 1737520575,
+        "game": {
+            "type": "high-roller",
+            "name": "Monopoly Live",
+            "logo": "https://res.cloudinary.com/betengine/image/upload/q_auto:best,f_webp,dpr_auto/w_250/casino-hub-files/d20f4601-d7db-4567-b6a9-7c5c4135df89.jpg"
+        },
+        "user": {
+            "avatar": "https://res.cloudinary.com/betengine/image/upload/f_webp/dpr_2.0/q_auto/v1/media-cloudbet/loyalty/tier/silver/5",
+            "name": "bcfw"
+        }
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "flag": "https://www.cloudbet.com/sports-data/country-flags/1x1/RU.svg",
+        "country": "International",
+        "competitions": [
+            {
+                "id": "international-nba",
+                "name": "International Friendlines",
+                "count": 5,
+                "matches": [
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    }
+                ]
+            },
+            {
+                "id": "international-nba",
+                "name": "International Friendlines",
+                "count": 6,
+                "matches": [
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "flag": "https://www.cloudbet.com/sports-data/country-flags/1x1/RU.svg",
+        "country": "Russia",
+        "competitions": [
+            {
+                "id": "russia-nba",
+                "name": "Premier League",
+                "count": 5,
+                "matches": [
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    }
+                ]
+            },
+            {
+                "id": "russia-nba",
+                "name": "Russia League",
+                "count": 6,
+                "matches": [
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "flag": "https://www.cloudbet.com/sports-data/country-flags/1x1/DE.svg",
+        "country": "Germany",
+        "competitions": [
+            {
+                "id": "germany-nba",
+                "name": "Premier League",
+                "count": 5,
+                "matches": [
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    }
+                ]
+            },
+            {
+                "id": "gussia-nba",
+                "name": "Germany League",
+                "count": 6,
+                "matches": [
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    },
+                    {
+                        "id": "123123",
+                        "name": "UEFA Europe Winner"
+                    }
+                ]
+            }
+            
+        ]
+    }
+]
