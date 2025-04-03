@@ -2,14 +2,14 @@ import { initializeApp, getApps, getApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyA0T7VtppX9J79L2qcKOeUEEa8vlV5PM-0",
-    authDomain: "movie-list-641eb.firebaseapp.com",
-    projectId: "movie-list-641eb",
-    storageBucket: "movie-list-641eb.firebasestorage.app",
-    messagingSenderId: "191246115812",
-    appId: "1:191246115812:web:793e37c6bdee7a0538ddf1",
-    measurementId: "G-FEH8N5S9H4"
-  };
+  apiKey: "AIzaSyCuQbZb8g6nNY-vYeY85UVHhG1HvGqm5aY",
+  authDomain: "cloudbet-b0f69.firebaseapp.com",
+  projectId: "cloudbet-b0f69",
+  storageBucket: "cloudbet-b0f69.firebasestorage.app",
+  messagingSenderId: "549347354711",
+  appId: "1:549347354711:web:899a740e941342b8201b12",
+  measurementId: "G-EXPKCQE8M7"
+};
 
 // ✅ Prevent duplicate Firebase initialization
 const app = getApps().length ? getApp() : initializeApp(firebaseConfig);
